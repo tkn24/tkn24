@@ -1,6 +1,6 @@
 ### Hello There  👋
 
-I am İlker from Turkey, I study Computer Engineering and I am a software developer. I like to learn software languages. and I like developing with C #, .Netcore..
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkn24)](https://github.com/anuraghazra/github-readme-stats)
 
